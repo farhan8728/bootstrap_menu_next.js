@@ -1,0 +1,143 @@
+@import url('https://fonts.maateen.me/solaiman-lipi/font.css');
+.date_icon{
+    display: flex;
+    margin-top: 38px;
+}
+.dateicon{
+    margin-top: 2px;
+}
+.date{
+    margin-left: 5px;
+    color: #3D3C3C;
+    
+    font-size: 16.25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    font-family: 'SolaimanLipi', sans-serif;
+}
+
+
+.fb{
+    color: #007cf0;
+    width: 24.375px;
+    height: 24.375px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+
+.youtube{
+    color: #f41b0b;
+    width: 24.375px;
+    height: 24.375px;
+    margin-left: 10px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+.linkedin{
+    color: #165ad0;
+    width: 24.375px;
+    height: 24.375px;
+    margin-left: 10px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+.log_in{
+    width: 91.408px;
+    height: 30.469px;
+    border: 1px solid #007cf0;
+    margin-top: 28px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 16px;
+    border-radius: 5px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 16.25px;
+    font-weight: 500;
+    cursor: pointer;
+}
+.ln{
+    width: 91.408px;
+    height: 30.469px;
+    border-radius: 5px;
+    background: rgba(74, 111, 182, 0.95);
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 16.25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 16px;
+    margin-top: 28px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+.bg_color{
+    background-color: #3458A0;
+    color: #fff;
+    
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    
+}
+.navitems{
+    color: #fff !important;
+    font-family: 'SolaimanLipi', sans-serif;
+    height: 60px;
+    padding-top: 15px;
+    font-size: 20px;
+    transition: all .2s ;
+    margin-left: 10px;
+    
+}
+
+.navitems:hover{
+    background-color: #113681;
+    height: 60px;
+    color: #fff !important;
+    
+}
+
+/* .navlink{
+    color: #fff !important;
+    font-family: 'SolaimanLipi', sans-serif;
+    height: 60px;
+    padding-top: 7px;
+    font-size: 20px;
+    transition: all .2s ;
+    margin-left: 10px;
+} */
+
+
+
+
+.nav-link {
+    display: block;
+    padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+    font-size: var(--bs-nav-link-font-size);
+    font-weight: var(--bs-nav-link-font-weight);
+    color: #fff !important;
+    text-decoration: none;
+    background: 0 0;
+    border: 0;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+
+
+
+
+
+
+
